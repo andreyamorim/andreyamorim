@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreyamorim
-- 👀 I’m interested in learning from good people, developing projects and meeting new colleagues.
-- 🌱 I’m currently learning the basic HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate and get experience, since I´m totally focused on being a dev.
+- 👀 Interested in learning from good people and practice programming to become a good dev.
+- 🌱 Currently learning the basic HTML, CSS and JavaScript.
+- 💞️ Looking to collaborate and get experience, since I´m totally focused on being a dev.
 - 📫 How to reach me: https://www.linkedin.com/in/andreyamorim/
 
 <!---
